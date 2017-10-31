@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-zeroconf-plugin",
+        "scope": null,
+        "escapedName": "cordova-zeroconf-plugin",
+        "name": "cordova-zeroconf-plugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\docs\\Documents\\phgap\\zeroconf\\zeroconf\\node_modules"
+    ]
+  ],
+  "_from": "cordova-zeroconf-plugin@latest",
+  "_id": "cordova-zeroconf-plugin@1.2.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-zeroconf-plugin",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-zeroconf-plugin-1.2.3.tgz_1489684349799_0.8937539081089199"
+  },
+  "_npmUser": {
+    "name": "vstirbu",
+    "email": "vlad.stirbu@ieee.org"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-zeroconf-plugin",
+    "scope": null,
+    "escapedName": "cordova-zeroconf-plugin",
+    "name": "cordova-zeroconf-plugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-zeroconf-plugin/-/cordova-zeroconf-plugin-1.2.3.tgz",
+  "_shasum": "83877180d17569e69815953bf843a004758b48e5",
+  "_shrinkwrap": null,
+  "_spec": "cordova-zeroconf-plugin",
+  "_where": "D:\\docs\\Documents\\phgap\\zeroconf\\zeroconf\\node_modules",
+  "author": {
+    "name": "Vlad Stirbu"
+  },
+  "bugs": {
+    "url": "https://github.com/vstirbu/ZeroConf/issues"
+  },
+  "cordova": {
+    "id": "cordova-zeroconf-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "ZeroConf plugin for Cordova/Phonegap",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "83877180d17569e69815953bf843a004758b48e5",
+    "tarball": "https://registry.npmjs.org/cordova-zeroconf-plugin/-/cordova-zeroconf-plugin-1.2.3.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "eff6bb5fe6a7900efe285991afa59dd12f558ee1",
+  "homepage": "https://github.com/vstirbu/ZeroConf",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "vstirbu",
+      "email": "vlad.stirbu@ieee.org"
+    }
+  ],
+  "name": "cordova-zeroconf-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vstirbu/ZeroConf.git"
+  },
+  "scripts": {},
+  "version": "1.2.3"
+}
